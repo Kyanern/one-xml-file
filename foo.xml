@@ -1,14 +1,14 @@
-<playlist id="playlist001">
-  <track id="track001">
+<playlist001>
+  <track001>
     <title>A Pox On You</title>
     <artist>Your Kind</artist>
-  </track>
-  <track id="track002">
+  </track001>
+  <track002>
     <title>Self-induced Paralysis</title>
     <artist>Neurotic</artist>
-  </track>
-  <track id="track003">
+  </track002>
+  <track003>
     <title>My Kingdom For A Donkey</title>
     <artist>Medieval Fools</artist>
-  </track>
-</playlist>
+  </track003>
+</playlist001>
